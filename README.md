@@ -1,0 +1,1 @@
+argocd를 통해 k8s nginx배포 하기
